@@ -2,12 +2,13 @@
 export libs2n
 
 JLLWrappers.@generate_wrapper_header("s2n_tls")
-JLLWrappers.@declare_file_product(libs2n)
+JLLWrappers.@declare_library_product(libs2n, "libs2n.so.1")
 function __init__()
     JLLWrappers.@generate_init_header()
-    JLLWrappers.@init_file_product(
+    JLLWrappers.@init_library_product(
         libs2n,
-        "lib/libs2n.a",
+        "lib/libs2n.so",
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@generate_init_footer()
