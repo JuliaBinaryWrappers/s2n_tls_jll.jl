@@ -1,128 +1,128 @@
 [[s2n_tls]]
 arch = "aarch64"
-git-tree-sha1 = "804959fabb354dd6ded75696573ec4e84807b2be"
+git-tree-sha1 = "139a8b1a67dc3c89569638fbfc4b0e6ff19fb05c"
 libc = "glibc"
 os = "linux"
 
     [[s2n_tls.download]]
-    sha256 = "273e8ab86b072fec305c6e93966c254cf68329b9d3dd7290ad07c2bc9a8f3dac"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.aarch64-linux-gnu.tar.gz"
+    sha256 = "895aabe8e1f25a5350f0887aa7ef2163bd4a18a0b42d176dafa65bc69d834d76"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.aarch64-linux-gnu.tar.gz"
 [[s2n_tls]]
 arch = "aarch64"
-git-tree-sha1 = "35962e3798d3a536087b722a592d28552343eb0c"
+git-tree-sha1 = "d5348e4fa4bc07f158771117a6b75d381d32f858"
 libc = "musl"
 os = "linux"
 
     [[s2n_tls.download]]
-    sha256 = "62007b900d3780fa48f7ee37f634b48d56dfcef56d6e29ad29d4b16dcbaf99db"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.aarch64-linux-musl.tar.gz"
+    sha256 = "54755d99f4afde914ddd34ae85d5baf0414e9cbec10a587376c63e3ae1074ac6"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.aarch64-linux-musl.tar.gz"
 [[s2n_tls]]
 arch = "aarch64"
-git-tree-sha1 = "584ae3f83263762cde30018a34d584f294adce16"
+git-tree-sha1 = "fc976818324f2a8360ca9e23abb4a62a16f56274"
 os = "freebsd"
 
     [[s2n_tls.download]]
-    sha256 = "211b59f09f6febcd15b773f150ac11597aa9103eeafe4dd5c5e61373aaa45432"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "42281d5127d6f83fb826e856bf0117c10dbd429882e87c7413811bbf4fe32d31"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.aarch64-unknown-freebsd.tar.gz"
 [[s2n_tls]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1c85e03b29186cfa3e2bbbe0b447c22cfccb3d89"
+git-tree-sha1 = "5e60567fd318e5f3e531a464716800f7f8459927"
 libc = "glibc"
 os = "linux"
 
     [[s2n_tls.download]]
-    sha256 = "d3f76822e0d0bd7ac88c9fc02d07d99cdaa82917e24f6ef1f8812acd08d2a063"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "4ebac324afa6db44f1c1ed7055fce9c6bfa074a7643f2cf717ca5b88f711b8d6"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.armv6l-linux-gnueabihf.tar.gz"
 [[s2n_tls]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "37d29517ee38715567a317573f18a3f223a5ef09"
+git-tree-sha1 = "a2c343deaedf7b3cfa61e832a9dc92c326e1c09f"
 libc = "musl"
 os = "linux"
 
     [[s2n_tls.download]]
-    sha256 = "e938622bca94e4b4bd653f6bd66452522b70998e35f86005c96ad4aff6deb563"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "18d9e4c0b4324dd4fafe9752e6b3d77ed69a361cfd411f478f09efa99eed4198"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.armv6l-linux-musleabihf.tar.gz"
 [[s2n_tls]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "63818519680b225f76fed83b2b064afd6dd139c3"
+git-tree-sha1 = "59f453a0f3dc2766563973d1b8ef85955658cf6d"
 libc = "glibc"
 os = "linux"
 
     [[s2n_tls.download]]
-    sha256 = "93f0c182031ec4c54717299bc701499b1441b9e6b3298b3d0ad6165f9817b175"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "7a7e0610f7b40fe741380b838842b4aab6eb9e3233b28e02646a6b8822f2e616"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.armv7l-linux-gnueabihf.tar.gz"
 [[s2n_tls]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "629838c8d8c58a7a6058edbecbaf10bd24d6e949"
+git-tree-sha1 = "3bcf73d14c542986f31ecdf0767b789c834a6a4b"
 libc = "musl"
 os = "linux"
 
     [[s2n_tls.download]]
-    sha256 = "8de94d7f7acaaae37e0262165407a68d714fa557fd195333bb20b442f4545c30"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "1c665fe0d2f11d88c7184ef219c39dfea3b4b9b0d141336725cdc219ca77fe23"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.armv7l-linux-musleabihf.tar.gz"
 [[s2n_tls]]
 arch = "i686"
-git-tree-sha1 = "a3b064ae5c66760e19a5e499cd51d0d87f80db4e"
+git-tree-sha1 = "8e1c5a9e23a3b52f077d38de7a3c6c9504f9f7a2"
 libc = "glibc"
 os = "linux"
 
     [[s2n_tls.download]]
-    sha256 = "c61d47a77c9556ccf65628773b9600a246bbd62cd1ca82df7794667bb9946a3d"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.i686-linux-gnu.tar.gz"
+    sha256 = "f258de670cf21025e6e970807131df6fab2803d15d5a0a001fdc3d646a04012d"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.i686-linux-gnu.tar.gz"
 [[s2n_tls]]
 arch = "i686"
-git-tree-sha1 = "edcb0064baa46eba0701997bfdd6219978245616"
+git-tree-sha1 = "e2955a929856879f583b67a1cd2ec684d66526c6"
 libc = "musl"
 os = "linux"
 
     [[s2n_tls.download]]
-    sha256 = "fc82a35b99bdb57a9d1113a017f0a63d686081142f74b2c2fe3323b1185b00be"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.i686-linux-musl.tar.gz"
+    sha256 = "3d42f09955143343a1f06ca57fb6a6b74060a9d2a8075d816506907bdc09e3ae"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.i686-linux-musl.tar.gz"
 [[s2n_tls]]
 arch = "powerpc64le"
-git-tree-sha1 = "bdbc38b52a8edd695a08da13c542bcaae6bb4593"
+git-tree-sha1 = "b661ae3fb0e48fa45e0ca8b49ccc28357cca5ed3"
 libc = "glibc"
 os = "linux"
 
     [[s2n_tls.download]]
-    sha256 = "f9f05bfed92e55089262c885320c04abef28cdceaf57ca6fab71f860ae288484"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "d5bfef3c3ec0c4be66a174591cb92d9787ec656d1080638ac0ef3d4bcc40f1c5"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.powerpc64le-linux-gnu.tar.gz"
 [[s2n_tls]]
 arch = "riscv64"
-git-tree-sha1 = "f87f15fcc19f3ac65505182b65596ff7bfaeea19"
+git-tree-sha1 = "fc59a3809911b6000a7986f74a10c69b81cce4a6"
 libc = "glibc"
 os = "linux"
 
     [[s2n_tls.download]]
-    sha256 = "c1099a46239f0af31eece009b10028550a151b56981b9fecac6113a8af09bc07"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.riscv64-linux-gnu.tar.gz"
+    sha256 = "0192837514a5fdc20507cc06cd93151fc302a035d6096708512474d5669aaa5c"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.riscv64-linux-gnu.tar.gz"
 [[s2n_tls]]
 arch = "x86_64"
-git-tree-sha1 = "a9d8ab4b88ddf567430ad6df3a8a76b719acd00f"
+git-tree-sha1 = "7a3dbe15b24f8095cd27a2690fb1a3bcd604958c"
 libc = "glibc"
 os = "linux"
 
     [[s2n_tls.download]]
-    sha256 = "00c666e81ddfce70aed7a0fed5d39690af1b7067aa933cd9c9da50d5e48eba88"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.x86_64-linux-gnu.tar.gz"
+    sha256 = "5a2174b81554b81a3a222129f41f4c3d00959728c0b1f7d58c7a4e58ce58120e"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.x86_64-linux-gnu.tar.gz"
 [[s2n_tls]]
 arch = "x86_64"
-git-tree-sha1 = "4c0c3885f1c9d731d15e3649ec50486712916541"
+git-tree-sha1 = "8cdd53a00882feb3a4d814bfde82b6bff2ab4d1a"
 libc = "musl"
 os = "linux"
 
     [[s2n_tls.download]]
-    sha256 = "b1a07dfd5da01a53c4a2a4195b78073a43ed71f8eef0ed48b6429f925509e43a"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.x86_64-linux-musl.tar.gz"
+    sha256 = "f709db6b1e2e9f3d5d5bd1a88818f4a21f5f203b6b1e9525c37ef7df9a78e5a3"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.x86_64-linux-musl.tar.gz"
 [[s2n_tls]]
 arch = "x86_64"
-git-tree-sha1 = "95797e87a598defd679d1402c93238b71e3b7c10"
+git-tree-sha1 = "43f51982e47df39873abe4660b6df60260e62e97"
 os = "freebsd"
 
     [[s2n_tls.download]]
-    sha256 = "9cba56ad30d0fb2b420ba03afcdd0b95f3c719699ca984cc93205efe4e51a303"
-    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.14+0/s2n_tls.v1.5.14.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "8a0934736cdc3b643302046c7baf87f7fe24309386a9c2dd57b5e1becb2c9cdb"
+    url = "https://github.com/JuliaBinaryWrappers/s2n_tls_jll.jl/releases/download/s2n_tls-v1.5.15+0/s2n_tls.v1.5.15.x86_64-unknown-freebsd.tar.gz"
